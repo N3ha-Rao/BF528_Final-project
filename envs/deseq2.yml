@@ -1,0 +1,9 @@
+name: deseq2
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+  - r
+dependencies:
+  - bioconda::bioconductor-deseq2=1.40.2
+  
