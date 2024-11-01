@@ -1,4 +1,4 @@
-# bf528-individual-project-NB-Rao
+# bf528-final-project-N3ha-Rao
 
 **Project Proposal: RNAseq Analysis**
 
